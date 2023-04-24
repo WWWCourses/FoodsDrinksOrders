@@ -1,2 +1,2 @@
 def show_main_menu(data):
-	pass
+	x = 1
